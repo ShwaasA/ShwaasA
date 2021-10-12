@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=35px> <br> I am [Shwaas Adlakha](https://resume.io/r/yP8z0TZFw) 
 
-<!--
-**ShwaasA/ShwaasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I’m a Computer Science enthusiast and a High School student.
 
-Here are some ideas to get you started:
+## My Experiences:
+- [MLH Local Hack Day 2022](https://localhackday.mlh.io)
+- [MLH MakeUC Hackathon 2021](https://makeuc.io)
+- [NASA Space Apps Challenge](https://www.spaceappschallenge.org) 
+- [Hackapalooza Hackathon 2021](https://hackapalooza.dev)
+- [Innovating India TedX Chandigarh](https://www.ted.com/tedx/events/33303)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats:
+![X](https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&hide_border=true)
+
+#### 📫 How to reach me: 
+- E-Mail: <a href="adlakhashwaas@gmail.com">adlakhashwaas@gmail.com</a>
+- Discord: AmAGeek#1569
+- LinkedIn:
