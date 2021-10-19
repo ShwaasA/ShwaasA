@@ -1,4 +1,4 @@
-# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=35px> <img src=https://user-images.githubusercontent.com/90902223/137321126-c8fc2bce-d588-48d5-bcc1-5d187a2eb423.png height="500px" width="auto" align="right" stley="margin-top: -10px"> <br> I am [Shwaas Adlakha](https://resume.io/r/yP8z0TZFw) 
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width=35px> <img src=https://user-images.githubusercontent.com/90902223/137321126-c8fc2bce-d588-48d5-bcc1-5d187a2eb423.png height="450px" width="auto" align="right" stley="margin-top: -10px"> <br> I am [Shwaas Adlakha](https://resume.io/r/yP8z0TZFw) 
 
 ## My Experiences:
 - [MLH Local Hack Day 2022](https://localhackday.mlh.io)
@@ -15,7 +15,9 @@
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&theme=react&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaasa&theme=react&line_height=10&hide=css" height=196px width="auto">
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwaasa&theme=react&line_height=10&hide=css height=100px) -->
 
 ## How to reach me: 
 - E-Mail: <a href="adlakhashwaas@gmail.com">adlakhashwaas@gmail.com</a>
