@@ -15,9 +15,9 @@
 
 ## GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&theme=react&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaasa&theme=react&line_height=10&hide=css" height=196px width="auto">
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shwaasa&theme=react&line_height=10&hide=css height=100px) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&theme=react&hide_border=true) -->
+<img src="https://github-readme-stats.vercel.app/api?username=shwaasa&show_icons=true&theme=react&hide_border=true" width="625px" height ="auto"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwaasa&theme=react&line_height=40&hide=css&hide_border=true" height=247x width="auto">
+
 
 ## How to reach me: 
 - E-Mail: <a href="adlakhashwaas@gmail.com">adlakhashwaas@gmail.com</a>
