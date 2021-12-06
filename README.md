@@ -25,4 +25,4 @@
 ## How to reach me: 
 - E-Mail: <a href="adlakhashwaas@gmail.com">adlakhashwaas@gmail.com</a>
 - Discord: AmAGeek#1569
-- LinkedIn:
+- LinkedIn: <a href="https://linkedin.com/in/shwaasadlakha">shwaasadlakha</a>
